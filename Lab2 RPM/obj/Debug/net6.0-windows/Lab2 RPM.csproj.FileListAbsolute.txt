@@ -1,0 +1,23 @@
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\bin\Debug\net6.0-windows\Lab2 RPM.exe
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\bin\Debug\net6.0-windows\Lab2 RPM.deps.json
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\bin\Debug\net6.0-windows\Lab2 RPM.runtimeconfig.json
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\bin\Debug\net6.0-windows\Lab2 RPM.dll
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\bin\Debug\net6.0-windows\Lab2 RPM.pdb
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM.csproj.AssemblyReference.cache
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\App.g.cs
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM_MarkupCompile.cache
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM_MarkupCompile.lref
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM.g.resources
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM.AssemblyInfoInputs.cache
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM.AssemblyInfo.cs
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM.csproj.CoreCompileInputs.cache
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM.dll
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\refint\Lab2 RPM.dll
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM.pdb
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\Lab2 RPM.genruntimeconfig.cache
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\ref\Lab2 RPM.dll
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\GameWindow.g.cs
+D:\Programming\Lab\РПМ\lab2\Lab2 RPM\Lab2 RPM\obj\Debug\net6.0-windows\GameWindow.baml
